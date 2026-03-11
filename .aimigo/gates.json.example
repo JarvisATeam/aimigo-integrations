@@ -1,0 +1,6 @@
+{
+  "gates": [
+    {"name": "lint", "command": ["python3", "-m", "compileall", "."], "timeout": 60, "required": false},
+    {"name": "test", "command": ["python3", "-m", "pytest", "-q"], "timeout": 120, "required": false}
+  ]
+}
