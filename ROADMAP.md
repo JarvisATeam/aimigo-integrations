@@ -1,7 +1,7 @@
 # ROADMAP.md
 
-## Neste oppgaver
+## Pilot: AImigo v5.4 bootstrapping
 
-- [~] Oppdater AImigo driftsnotat (TASK-0001, in progress) [files: docs/ops/STATUS.md]
-- [~] Dokumenter første pilotkjøring (TASK-0002, in progress) [files: docs/ops/HANDOFF.md]
-- [~] Lag lokal gate-mal (TASK-0003, in progress) [files: .aimigo/gates.json]
+- [ ] Oppdater AImigo driftsnotat [files: docs/ops/STATUS.md]
+- [ ] Dokumenter første pilotkjøring [files: docs/ops/HANDOFF.md]
+- [ ] Lag lokal gate-mal [files: .aimigo/gates.json]
