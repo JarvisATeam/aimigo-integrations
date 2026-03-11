@@ -1,3 +1,5 @@
-# AImigo Status
+# TASK-0010
 
-Workspace manager patch verified.
+Task: Oppdater AImigo driftsnotat
+
+Generation mode: stub
