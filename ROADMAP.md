@@ -2,5 +2,6 @@
 
 ## Neste oppgaver
 
-- [ ] Første pilotoppgave [files: output/TASK-PLACEHOLDER/result.md]
-- [ ] Verifiser proof pack [files: output/TASK-PLACEHOLDER-2/result.md]
+- [~] Oppdater AImigo driftsnotat (TASK-0001, in progress) [files: docs/ops/STATUS.md]
+- [~] Dokumenter første pilotkjøring (TASK-0002, in progress) [files: docs/ops/HANDOFF.md]
+- [~] Lag lokal gate-mal (TASK-0003, in progress) [files: .aimigo/gates.json]
